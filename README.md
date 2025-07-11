@@ -183,10 +183,14 @@ This section summarizes values, sketches, and prompt patterns that yielded the m
 
   *N2.: blurry, cartoonish, distorted, low resolution, sketch, grass, timber, additional windows, additional rooms, extra proportions, different textures
 
-# All the prompts are interchangeable. Seasons and seasonal elements can be passed: winter, snow, autumn, leaves, etc.
+## All the prompts are interchangeable. Seasons and seasonal elements can be passed: winter, snow, autumn, leaves, etc.
+
+### The preprocessed sketches can be found inside the '/sketches' folder.
+
 
 * Sketch Preprocessing:
   * Inverted version of the sketch
+  ![alt text](<sketchs/inverse sketch.png>)
   * Contrast Boosting: Off
   * Canny Edge Detection: Off (use for low-contrast linework)
   * Depth Overlay: Off, works best with shaded or tonal drawings
