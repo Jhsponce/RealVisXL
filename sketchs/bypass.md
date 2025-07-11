@@ -1,0 +1,1 @@
+#File to bypass LFS request on binary files by manual uploading.

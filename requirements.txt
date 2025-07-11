@@ -1,0 +1,10 @@
+
+torch>=2.1.0
+transformers>=4.38.0
+diffusers[torch]>=0.27.2
+safetensors>=0.4.0
+gradio>=4.0.0
+accelerate>=0.21.0
+Pillow>=9.0.0
+torchvision
+opencv-python-headless
