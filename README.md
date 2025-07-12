@@ -11,7 +11,7 @@ license: mit
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-# SDXL Sketch-to-Render: Prompt Engineering Report
+# SDXL Sketch-to-Render: Prompt Engineering
 
 ## Model and Methodology Details
 
