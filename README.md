@@ -172,16 +172,17 @@ It improves photoreal texture, depth, and noise distribution.
 This section summarizes values, sketches, and prompt patterns that yielded the most reliable architectural fidelity.
 
 * Prompts:
-  A.: Photo of a two-story house, large glass windows, stone tiles façade, second floor wood cladding, taken at noon, shot on Canon DSLR, real estate listing photo, dry concrete, weathered stone, dirt on windows, overcast lighting, rain, fog
 
-  B.: A modern two-story house with stone tiles, dirty sidewalk, metal railing, and old curb. Taken on DSLR with natural overcast light, handheld photo, subtle chromatic aberration, low contrast, 35mm film
+- A.: Photo of a two-story house, large glass windows, stone tiles façade, second floor wood cladding, taken at noon, shot on Canon DSLR, real estate listing photo, dry concrete, weathered stone, dirt on windows, overcast lighting, rain, fog
+
+- B.: A modern two-story house with stone tiles, dirty sidewalk, metal railing, and old curb. Taken on DSLR with natural overcast light, handheld photo, subtle chromatic aberration, low contrast, 35mm film
 
 
   Negative prompts: 
   
-  *N1.: cartoon, CGI, over sharpened, stylized, unrealistic textures, perfect surfaces, additional windows
+- N1.: cartoon, CGI, over sharpened, stylized, unrealistic textures, perfect surfaces, additional windows
 
-  *N2.: blurry, cartoonish, distorted, low resolution, sketch, grass, timber, additional windows, additional rooms, extra proportions, different textures
+- N2.: blurry, cartoonish, distorted, low resolution, sketch, grass, timber, additional windows, additional rooms, extra proportions, different textures
 
 ## All the prompts are interchangeable. Seasons and seasonal elements can be passed: winter, snow, autumn, leaves, etc.
 
