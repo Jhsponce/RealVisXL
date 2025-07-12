@@ -97,7 +97,7 @@ with gr.Blocks() as demo:
             strength = gr.Slider(0.0, 1.0, value=0.6, step=0.05, label="ControlNet Strength")
             seed = gr.Number(label="Seed (0 = random)", value=0, precision=0)
             apply_canny = gr.Checkbox(label="Apply Canny Edge Detection", value=False)
-            apply_contrast = gr.Checkbox(label="Boost Contrast", value=True)
+            apply_contrast = gr.Checkbox(label="Boost Contrast", value=False)
             apply_depth = gr.Checkbox(label="Overlay Depth Map", value=False)
             btn = gr.Button("Generate")
         with gr.Column():
