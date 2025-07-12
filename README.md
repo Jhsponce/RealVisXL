@@ -225,14 +225,39 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Or launch in browser from:
+GPU recommended: SDXL-based models require at least 12–16 GB VRAM for smooth generation.
+
+Once started, the app will be accessible in your browser at:
+
+```
+http://127.0.0.1:7860
+```
+
+If needed, you can change the port in app.py:
+
+```
+demo.launch(server_port=7860)
+```
+
+Or launch in browser from Hugging Face:
 
 ```
 https://huggingface.co/spaces/Scythd/RealVisXL
 ```
+
+Steps:
+
 *Select "Duplicate this Space"
 
-*For a direct run, the GPUs must be activated on request 
+*Rename the Space (optional).
+
+*Select GPU hardware (e.g., T4 or A10G) — paid plan required.
+
+*Click Create Space and wait for it to build.
+
+That’s it — no local installation or setup required.
+
+Note: For a direct run from the base Hugging Face Space, the GPUs must be activated on request. 
 
 
 ### GitHub Link
