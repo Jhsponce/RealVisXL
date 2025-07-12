@@ -228,17 +228,16 @@ python app.py
 Or launch in browser from:
 
 ```
-[text](https://huggingface.co/spaces/Scythd/RealVisXL)
+https://huggingface.co/spaces/Scythd/RealVisXL
 ```
 *Select "Duplicate this Space"
 
-```
- *For a direct run, the GPUs must be activated on request 
-```
+*For a direct run, the GPUs must be activated on request 
 
 
 ### GitHub Link
 
-[https://github.com/Jhsponce/RealVisXL.git]
-
+```
+https://github.com/Jhsponce/RealVisXL.git
+```
 
