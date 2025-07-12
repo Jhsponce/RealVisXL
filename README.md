@@ -247,13 +247,13 @@ https://huggingface.co/spaces/Scythd/RealVisXL
 
 Steps:
 
-*Select "Duplicate this Space"
+- Select "Duplicate this Space"
 
-*Rename the Space (optional).
+- Rename the Space (optional).
 
-*Select GPU hardware (e.g., T4 or A10G) — paid plan required.
+- Select GPU hardware (e.g., T4 or A10G) — paid plan required.
 
-*Click Create Space and wait for it to build.
+- Click Create Space and wait for it to build.
 
 That’s it — no local installation or setup required.
 
