@@ -193,7 +193,7 @@ This section summarizes values, sketches, and prompt patterns that yielded the m
   ![alt text](<sketchs/inverse sketch.png>)
   * Contrast Boosting: Off
   * Canny Edge Detection: Off (use for low-contrast linework)
-  * Depth Overlay: Off, works best with shaded or tonal drawings
+  * Depth Overlay: Off (works best with shaded or tonal drawings)
 
 * Tunable Parameters:
   * Guidance Scale: 6-7.5
