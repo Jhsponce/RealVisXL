@@ -1,4 +1,4 @@
----
+1---
 title: RealVisXL
 colorFrom: pink
 colorTo: indigo
@@ -221,7 +221,7 @@ This section summarizes values, sketches, and prompt patterns that yielded the m
 Clone the repository:
 
 ```
-git clone https://huggingface.co/spaces/Scythd/RealVisXL
+git clone https://github.com/Jhsponce/RealVisXL.git
 pip install -r requirements.txt
 python app.py
 ```
