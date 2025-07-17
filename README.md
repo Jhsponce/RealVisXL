@@ -1,13 +1,3 @@
-title: RealVisXL
-colorFrom: pink
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.36.2
-app_file: app.py
-license: mit
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 # SDXL Sketch-to-Render: Prompt Engineering
 
 ## Model and Methodology Details
