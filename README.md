@@ -8,8 +8,6 @@ This project relies entirely on prompt engineering to guide the output of a pret
 
 ### Model Components
 
-## Note: All models used are publicly hosted on Hugging Face Hub, and will be automatically downloaded on first run using `hf_hub_download`.
-
 * Base Model: `realvisxlV20_v20Bakedvae.safetensors` from `Scythd/RealVisV2` (SDXL with baked VAE) 
 * ControlNet: `sdxl-controlnet-lineart-promeai-fp16.safetensors` from `Scythd/PromeAi-SDXL-ControlNet`
 * Preprocessing Enhancers:
