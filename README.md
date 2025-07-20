@@ -2,7 +2,7 @@
 
 ## Model and Methodology Details
 
-### Approach: Prompt Engineering (no fine-tuning)
+### Approach: Prompt Engineering
 
 This project relies entirely on prompt engineering to guide the output of a pretrained Stable Diffusion XL (SDXL) model enhanced with a lineart-based ControlNet, not in fine-tune model weights. Instead, photorealistic rendering from sketches was achieved through a combination of text-based conditioning, sketch preprocessing, and parameter tuning at inference. Swerving text-to-image models towards yielding particular results can be quite challenging given the fact that randomness is still an ihnerent factor to any AI tool. 
 
@@ -81,7 +81,7 @@ Users can toggle these in the interface.
 
 Contrast enhancement is useful on most architectural sketches. Canny is most effective for wireframe inputs. Depth overlay adds value when the sketch contains tonal information or shading.
 
-# The following are improvements that couldn't be implemented due to time constraints:
+# The following are improvements yet to-be implemented :
 
 ## Prompt Chunking (Planned Extension)
 
